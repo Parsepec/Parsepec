@@ -3,26 +3,17 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Imran, a 25 years old  web developer from Nigeria.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
-
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
+Fullstack Javascript/Typescript Developer,with 6 years of experience creating and consuming API, translating mockups and prototypes into full fledged applications, I link to tinker with emerging and established technologies while learning new ways to approach a problem, currently exploring blockchain the web 3 space. I enjoy collaborating in teams with innovative devs and designers. 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 TypeScript, JavaScript, Python, Solidity
+- ⚙️ Node, Deno React, Vue, Next, Nuxt, Astro
+- 👁️ SASS, CSS, Tailwind, Bootstrap
+- 💽 PostgreSQL, mySQL, Mongo
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [@w_w_s_e](https://twitter.com/w_w_s_e) on Twitter
+- [@parsepec](https://discordapp.com/users/854661215883231232) on Discord
