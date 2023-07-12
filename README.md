@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Parsepec/Parsepec/blob/master/name.png" alt="Imran Abubakar" />
+  <img src="https://raw.githubusercontent.com/Parsepec/Parsepec/master/name.png" alt="Imran Abubakar" />
 </h1>
 
 ## Hey! 👋
